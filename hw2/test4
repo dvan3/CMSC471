@@ -1,0 +1,8 @@
+test4
+6 6
+v1 v1 nil nil nil v2
+v3 nil nil v4 nil v2
+v3 g g v4 nil v2
+v3 nil nil v4 nil nil
+v5 nil nil nil v6 v6
+v5 nil v7 v7 v7 nil
